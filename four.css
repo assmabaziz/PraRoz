@@ -59,8 +59,8 @@ ul li a:hover {
 }
 
 ul li.active a {
-	background: #fff;
-	color: #000;
+	background: white;
+	color: black;
 }
 
 .fa fa-home {
